@@ -1,0 +1,21 @@
+{
+  "name": "treinamentojs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "classes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielItaqui/TreinamentoJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielItaqui/TreinamentoJS/issues"
+  },
+  "homepage": "https://github.com/GabrielItaqui/TreinamentoJS#readme"
+}
